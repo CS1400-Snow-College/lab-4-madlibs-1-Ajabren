@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-4-madlibs-1-Ajabren")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8616ccefc88d87eee8dd5f49b83a3e5ff0300b29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d7871e2e7c470ce2fcb01ba1a2b4860a30c732d")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-4-madlibs-1-Ajabren")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-4-madlibs-1-Ajabren")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
