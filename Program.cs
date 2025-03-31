@@ -22,5 +22,44 @@ Console.WriteLine("Let's get started!\n");
 
         // This should hopefully split original story into words
         string[] storyWords = originalStory.Split(' ');
- }
-}       
+         string newStory = "";
+
+        foreach (string word in storyWords)
+        {
+            // If the word has parentheses, it's a placeholder for user input
+            if (word.StartsWith("(") && word.EndsWith(")"))
+            {
+                // Remove the parentheses to get the word type
+                string wordType = word.Substring(1, word.Length - 2);
+                
+                // Check "a" or "an" based on vowel sounds
+                string article = "a";
+                if (IsVowel(wordType[0]))
+                {
+                    article = "an";
+                }
+
+                // Ask the word type
+                Console.Write($"Please give me {article} {wordType}: ");
+                string userInput = Console.ReadLine();
+
+                newStory += userInput + " ";
+            }
+            else
+            {
+                // If it's not a placeholder, add the word as it is
+                newStory += word + " ";
+            }
+        }
+// Display the final Mad Libbed story
+        Console.WriteLine("\nHere is your Mad Libs story:\n");
+        Console.WriteLine(newStory);
+    }
+
+    // the quick fix system helped here
+ private static bool IsVowel(char c)
+    {
+        char[] vowels = { 'a', 'e', 'i', 'o', 'u' };
+        return Array.Exists(vowels, v => v == char.ToLower(c));
+    }
+}
