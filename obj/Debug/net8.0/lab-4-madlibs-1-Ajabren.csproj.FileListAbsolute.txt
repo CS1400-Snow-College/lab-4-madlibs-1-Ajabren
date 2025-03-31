@@ -1,0 +1,15 @@
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\bin\Debug\net8.0\lab-4-madlibs-1-Ajabren.exe
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\bin\Debug\net8.0\lab-4-madlibs-1-Ajabren.deps.json
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\bin\Debug\net8.0\lab-4-madlibs-1-Ajabren.runtimeconfig.json
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\bin\Debug\net8.0\lab-4-madlibs-1-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\bin\Debug\net8.0\lab-4-madlibs-1-Ajabren.pdb
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\lab-4-madlibs-1-Ajabren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\lab-4-madlibs-1-Ajabren.AssemblyInfoInputs.cache
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\lab-4-madlibs-1-Ajabren.AssemblyInfo.cs
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\lab-4-madlibs-1-Ajabren.csproj.CoreCompileInputs.cache
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\lab-4-madlibs-1-Ajabren.sourcelink.json
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\lab-4-madlibs-1-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\refint\lab-4-madlibs-1-Ajabren.dll
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\lab-4-madlibs-1-Ajabren.pdb
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\lab-4-madlibs-1-Ajabren.genruntimeconfig.cache
+C:\Users\EVOO\my-code-dir\lab-4-madlibs-1-Ajabren\obj\Debug\net8.0\ref\lab-4-madlibs-1-Ajabren.dll
